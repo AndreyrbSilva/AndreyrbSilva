@@ -1,4 +1,4 @@
-# 💫 About Me:
+# :wave: Olá me chamo Andrey
 Estou atualmente dedicado aos meus estudos em Análise e Desenvolvimento de Sistemas na Faculdade SENAC, com o objetivo de me tornar um desenvolvedor completo e impactar significativamente o mercado digital!
 
 
