@@ -1,5 +1,6 @@
 # 💫 About Me:
 Estou atualmente dedicado aos meus estudos em Análise e Desenvolvimento de Sistemas na Faculdade SENAC, com o objetivo de me tornar um desenvolvedor completo e impactar significativamente o mercado digital!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 💻 Tech Stack:
