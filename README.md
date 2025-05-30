@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">- 📖 Estou atualmente dedicado aos meus estudos em Análise e Desenvolvimento de Sistemas na Faculdade SENAC!<br>- 🔧 Atualmente estudando Java e Kotlin no Android Studio.</p>
+<p align="left">
+- 📖 Atualmente dedicado aos meus estudos em Análise e Desenvolvimento de Sistemas na Faculdade SENAC!<br>
+- 🔧 Estudando Java e Kotlin no Android Studio.<br>
+- 📓 Estudando JavaScript na plataforma Mundi Digital.<br>
+</p>
 
 ###
 
