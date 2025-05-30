@@ -18,7 +18,7 @@
 
 ###
 
-<img align="right" height="140" src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" />
+<img align="right" height="140" src="https://media.tenor.com/ZdJwxh6MzfUAAAAi/pixel-float.gif" />
 
 ###
 
