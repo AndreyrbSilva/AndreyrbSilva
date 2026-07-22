@@ -8,8 +8,6 @@
 
 <p align="left">
   🚀 Focado em criar soluções completas, desde landing pages até aplicativos mobile e web.<br>
-  🔭 Atualmente desenvolvendo meu Portfólio e estudando React.js<br>
-  💼 Aberto a oportunidades de estágio na área de TI e projetos freelance!
 </p>
 
 <p align="left">
